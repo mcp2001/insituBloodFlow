@@ -17,7 +17,7 @@ every time the user logs in.
 2. Install latest updates for ubuntu
 Type the following code in the terminal:
 
-• sudo apt update
+` sudo apt update`
 
 then,
 
